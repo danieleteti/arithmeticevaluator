@@ -1,10 +1,9 @@
 # arithmeticevaluator
-Simple arithmetic evaluator
+Simple arithmetic evaluator written in 30 min using [Deep Seek](https://chat.deepseek.com/).
 
 
 ```
 ** SIMPLE ARITHMETIC EVALUATOR **
-****** Daniele Teti - 2025 ******
 
 > 3+2
 5
